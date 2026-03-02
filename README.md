@@ -1,13 +1,12 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Hi 👋
+## Hi, I'm Tridibesh 👋
 
-I like building things from scratch — understanding how they work, then making them work better.
+A curious learner diving deep into how software systems work.
 
-Currently exploring full-stack development, distributed systems, and applied AI.
-I care about architecture, performance, and writing code that survives real-world pressure.
+Exploring full-stack development, distributed systems, and applied AI — focusing on fundamentals, architecture, and writing clean, reliable code.
 
-Learning fast. Shipping consistently. Improving daily.
+Learning by building. Improving through iteration.
 
 ---
 
