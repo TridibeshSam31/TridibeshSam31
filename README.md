@@ -19,5 +19,6 @@ Learning by building. Improving through iteration.
 </p>
 
 ---
-
-![Snake animation](https://raw.githubusercontent.com/TridibeshSam31/TridibeshSam31/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TridibeshSam31/TridibeshSam31/output/github-contribution-grid-snake-dark.svg" />
+</p>
