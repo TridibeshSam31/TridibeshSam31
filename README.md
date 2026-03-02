@@ -14,7 +14,9 @@ Learning by building. Improving through iteration.
 
 ---
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TridibeshSam31&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TridibeshSam31&theme=github_dark" />
+</p>
 
 ---
 
