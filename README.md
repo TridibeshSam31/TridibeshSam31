@@ -15,7 +15,7 @@ Learning fast. Shipping consistently. Improving daily.
 
 ---
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TridibeshSam31&theme=github_dark)
+
 
 ---
 
